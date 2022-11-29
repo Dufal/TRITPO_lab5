@@ -1,2 +1,0 @@
-# TRITPO_lab5
-TRITPO_lab5
